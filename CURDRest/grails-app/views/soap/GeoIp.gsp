@@ -9,8 +9,11 @@
   <div class="body"><b>
   Status : ${returnDetail}</b>
   <br>
-  <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b>
-  Country Name : ${country}<br>
+  <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b> <b></b><%--
+  
+  
+  //https://github.com/JavaCodesHere/GrailSoap.git
+  Country Name : --%>${country}<br>
   Country Code : ${code}
   </div>
 </body>
